@@ -1,2 +1,2 @@
 # player-one.finance
-documentingHISTORY
+documenting
